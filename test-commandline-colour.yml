@@ -1,0 +1,4 @@
+---
+- hosts: apache
+  become: true
+  tasks:

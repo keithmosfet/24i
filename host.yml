@@ -1,0 +1,7 @@
+---
+- hosts: apache
+  become: true
+  tasks:
+  - name: "update hostnames"
+    hostname:
+      name: "web01"

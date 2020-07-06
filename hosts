@@ -1,0 +1,2 @@
+ [apache]
+ 54.154.233.41 ansible_ssh_private_key_file=/Users/kmoffat/Downloads/24i/keith-key ansible_ssh_user=ubuntu
